@@ -43,7 +43,7 @@ This project detects whether a driver's eyes are open or closed by combining Ope
    - display eye-state results in real time
 
 ## Result
-(DEMO/DEMO_picture.png)
+![DEMO_picture](DEMO/DEMO_picture.png) 
 - Green frame: normal
 - Red frame: alert
 - When both eyes are closed, an additional warning message is shown
